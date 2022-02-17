@@ -192,6 +192,7 @@ p{
     margin-bottom: 50px;
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.1);
     transition: transform 0.5s;
+    cursor: pointer;
 }
 .col-4 img{
     width: 100%;
@@ -342,7 +343,7 @@ p{
     color:#ff3838;
     padding: 3px;
     display: block;
-    
+    text-decoration: none;
   }
   .footer .footer-info .box a:hover{
     color:#eee;
